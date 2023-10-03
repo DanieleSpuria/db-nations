@@ -13,7 +13,7 @@ public class Main {
 		
 		final String url = "jdbc:mysql://localhost:3306/db-nations";
 		final String user = "root";
-		final String password = "daniele89";
+		final String password = "";
 				
 //		final String sql = " SELECT c.name country_name, c.country_id  country_id, r.name region_name, c2.name continent_name "
 //				+ " FROM countries c "
